@@ -1,16 +1,41 @@
 body{
     background-image: url(assest/sea.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
-
 }
+
 .form{
-   text-align: center;
-   background-color: white;
-   box-sizing: border-box;
- 
+    background-color: wheat;
+    border: 2px solid brown;
+    padding: 100px 100px 100px 100px;
+    margin: 100px 100px 100px 100px;
 }
 .name{
-    margin-right: 10px;
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.number{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.email{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.profession{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.age{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.textarea{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
+}
+.submit{
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px 30px 30px;
 }
