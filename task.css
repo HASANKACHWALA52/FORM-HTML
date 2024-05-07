@@ -1,0 +1,45 @@
+body{
+  background-color: green;
+  /* margin: 50px 50px 50px 50px; */
+  background-size: cover;
+  /* padding: 50px 50px 50px 50px; */
+}
+.task{
+   margin: 200px 400px 20px 400px;
+}
+.task1{
+    background-color:white;
+    border: 2px solid brown;
+    padding: 25px 25px 25px 25px;
+    /* margin: 500px 400px 400px 400px; */
+    text-align: center;
+    border-radius: 10px;
+    border-style: groove;
+}
+.submit{
+    /* margin: 55px 55px 55px 55px; */
+    color: green;
+    width: 400px;
+    border-radius: 10px;
+    /* background-color: green; */
+
+}
+.name{
+    width: 400px;
+}
+.subject{
+    width: 400px;
+}
+.submit{
+    width: 400px;
+}
+.phone{
+    width: 400px;
+}
+.email{
+    width: 400px;
+}
+}
+}
+}
+}

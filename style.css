@@ -11,39 +11,19 @@ body{
     border: 2px solid brown;
     padding: 50px 50px 50px 50px;
     margin: 50px 50px 50px 50px;
+    text-align: center;
 }
-.name{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.number{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.email{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.profession{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.age{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.textarea{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
-.submit{
-    padding: 20px 20px 20px 20px;
-    margin: 30px 30px 30px 30px;
-}
+
 .par{
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     font-weight: 600;
     color: blue;
+}
+.form1{
+    margin: 150px 150px 50px 150px;
+}
+.age{
+    width: 150px;
 }
